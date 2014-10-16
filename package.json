@@ -1,0 +1,31 @@
+{
+  "name": "jquery-hasparent",
+  "description": "jQuery hasParent helper. Checks if the selected element has a defined parent element.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/valeriansaliou/jquery.hasparent",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/valeriansaliou/jquery.hasparent"
+  },
+
+  "author": {
+    "name": "Valérian Saliou",
+    "url": "https://valeriansaliou.name/"
+  },
+
+  "main": "Gruntfile.js",
+
+  "engines": {
+    "node": ">=0.10.0"
+  },
+
+  "scripts": {
+    "test": "npm install; grunt test"
+  },
+
+  "devDependencies": {
+    "grunt": "0.4.5",
+    "grunt-contrib-jshint": "0.10.0"
+  }
+}
