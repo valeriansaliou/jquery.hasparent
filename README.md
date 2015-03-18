@@ -5,7 +5,7 @@ jQuery hasParent
 
 jQuery hasParent plugin: check if the selected element has a defined parent element in the upward tree.
 
-[![build status](https://ci.hakuma.holdings/projects/61/status.png?ref=master)](https://ci.hakuma.holdings/projects/61?ref=master)
+[![Build Status](https://semaphoreci.com/api/v1/projects/77e8da57-5b41-4598-baa0-f4da4d6c924f/375999/shields_badge.svg)](https://semaphoreci.com/valeriansaliou/jquery-hasparent)
 
 
 ## Usage
